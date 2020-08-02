@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".listpendaftar">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data Pendaftar"
+        android:textSize="40dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="80dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alamat:"
+        android:textSize="25dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="30dp"
+        />
+    <TextView
+        android:id="@+id/dt_alamat2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data alamat"
+        android:textSize="25dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="130dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:textSize="25dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="30dp"
+        />
+    <TextView
+        android:id="@+id/dt_email2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data email"
+        android:textSize="25dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="110dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="25dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="30dp"
+        />
+    <TextView
+        android:id="@+id/dt_nama2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data nama"
+        android:textSize="25dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="115dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telepon:"
+        android:textSize="25dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="30dp"
+        />
+    <TextView
+        android:id="@+id/dt_telepon2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data telepon"
+        android:textSize="25dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="135dp"
+        />
+    <Button
+        android:id="@+id/but_kembali2"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="110dp"
+        android:text="Kembali"
+        android:onClick="back_home2"
+        />
+</RelativeLayout>

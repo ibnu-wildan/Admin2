@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "565210180008",
+    "firebase_url": "https://bismillah2-d7637.firebaseio.com",
+    "project_id": "bismillah2-d7637",
+    "storage_bucket": "bismillah2-d7637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565210180008:android:ac8848dfd7731d3b8a959d",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565210180008-tn550ps0p69afu7eefc1761g34h6qqtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin",
+            "certificate_hash": "c8e1ebb1d7795a05df156cc21df8a6e099e680d0"
+          }
+        },
+        {
+          "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pYroZaW2LUIsDo3-C_wjkx6MVPpNpe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565210180008:android:899fc30eda5e13608a959d",
+        "android_client_info": {
+          "package_name": "com.example.admin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565210180008-an0turs599ctk7e7p5dn3bpjb8v6mhl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin2",
+            "certificate_hash": "d88d10e7d267d1f98911b2e53eb8362d1fa41d63"
+          }
+        },
+        {
+          "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pYroZaW2LUIsDo3-C_wjkx6MVPpNpe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565210180008:android:c885567acb4949158a959d",
+        "android_client_info": {
+          "package_name": "com.example.bismillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pYroZaW2LUIsDo3-C_wjkx6MVPpNpe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565210180008-hkkd9j01c913l76uehl110sf0lsg2sdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

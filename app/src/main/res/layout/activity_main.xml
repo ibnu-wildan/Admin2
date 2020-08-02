@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="Welcome Admin"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="90dp"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/but_pendaftar"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="111dp"
+        android:layout_marginTop="70dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="Lihat data pendaftar"
+        android:onClick="lihat_pendaftar"/>
+
+    <Button
+        android:id="@+id/but_keluhan"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="111dp"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/holo_red_light"
+        android:text="Lihat data keluhan"
+        android:onClick="lihat_keluhan"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="111dp"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/common_google_signin_btn_icon_light" />
+
+
+</LinearLayout>
